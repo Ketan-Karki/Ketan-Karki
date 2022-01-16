@@ -13,14 +13,14 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on enhancing my skills.
-- 🌱 I’m currently learning more about Web Development.
-- 👯 I’m looking to collaborate on Projects based highly on Front End WebDev.
-- 🤔 I’m looking for help with anything you are good at.
-- 💬 Ask me about Problem Solving and Front End Web Development.
-- 📫 How to reach me: [Twitter - @KarkiKetan](https://twitter.com/KarkiKetan) , [LinkedIn - Ketan Karki](https://www.linkedin.com/in/ketan-karki-9a9b071b6/)
+- 🤓 I’m currently working on enhancing my skills.
+- 📙 I’m currently learning more about Web Development.
+- ✌️ Right now I’m looking to collaborate on Projects based mainly on Front End WebDev.
+- 🆘 I’m looking for help with anything you are good at.
+- 🧐 Ask me about Problem Solving and Front End Web Development.
+- 🤙 How to reach me: [Twitter - @KarkiKetan](https://twitter.com/KarkiKetan) , [LinkedIn - Ketan Karki](https://www.linkedin.com/in/ketan-karki-9a9b071b6/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: In my spare time I enjoy listening to music, dancing, and doing some artwork.
+- 👉 Fun fact: In my spare time I enjoy listening to music, dancing, and doing some artwork.
 
 [![Twitter: KarkiKetan](https://img.shields.io/twitter/follow/KarkiKetan?style=social)](https://twitter.com/KarkiKetan)
 [![Linkedin: Ketan Karki](https://img.shields.io/badge/-KetanKarki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ketan-karki-9a9b071b6//)](https://www.linkedin.com/in/ketan-karki-9a9b071b6/)
