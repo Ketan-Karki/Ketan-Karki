@@ -1,12 +1,12 @@
 ### Ciao, I'm Ketan Karki!👋
 
-<a href="https://twitter.com/KarkiKetan">
+<a href="https://twitter.com/KarkiKetan" target="_blank">
   <img align="left" alt="Ketan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ketan-karki-9a9b071b6">
+<a href="https://www.linkedin.com/in/ketan-karki-9a9b071b6" target="_blank">
   <img align="left" alt="Ketan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/KetanKarki">
+<a href="https://github.com/KetanKarki" target="_blank">
   <img align="left" alt="Ketan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -36,10 +36,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>  
 
-<a href="https://github.com/KetanKarki">
+<a href="https://github.com/KetanKarki" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetanKarki&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/KetanKarki">
+<a href="https://github.com/KetanKarki" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KetanKarki&show_icons=true&theme=light&line_height=27" alt="Ketan's github stats"/>
 </a>
 
