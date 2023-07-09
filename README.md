@@ -22,7 +22,6 @@
 - 😄 Pronouns: He/His
 - 👉 Fun fact: In my spare time I enjoy listening to music, dancing, and doing some artwork.
 
-[![Twitter: KarkiKetan](https://img.shields.io/twitter/follow/KarkiKetan?style=social)](https://twitter.com/KarkiKetan)
 [![Linkedin: Ketan Karki](https://img.shields.io/badge/-KetanKarki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ketan-karki-9a9b071b6//)](https://www.linkedin.com/in/ketan-karki-9a9b071b6/)
 [![GitHub iampawan](https://img.shields.io/github/followers/KetanKarki?label=follow&style=social)](https://github.com/KetanKarki)
 
