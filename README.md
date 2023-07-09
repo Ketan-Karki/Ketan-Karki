@@ -1,8 +1,5 @@
 ### Ciao, I'm Ketan Karki!👋
 
-<a href="https://twitter.com/KarkiKetan" target="_blank">
-  <img align="left" alt="Ketan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/ketan-karki-9a9b071b6" target="_blank">
   <img align="left" alt="Ketan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,7 +15,7 @@
 - ✌️ Right now I’m looking to collaborate on Projects based mainly on Front End WebDev.
 - 🆘 I’m looking for help with anything you are good at.
 - 🧐 Ask me about Problem Solving and Front End Web Development.
-- 🤙 How to reach me: [LinkedIn - Ketan Karki](https://www.linkedin.com/in/ketan-karki-9a9b071b6/) , [Twitter - @KarkiKetan](https://twitter.com/KarkiKetan) 
+- 🤙 How to reach me: [LinkedIn - Ketan Karki](https://www.linkedin.com/in/ketan-karki-9a9b071b6/) 
 - 😄 Pronouns: He/His
 - 👉 Fun fact: In my spare time I enjoy listening to music, dancing, and doing some artwork.
 
