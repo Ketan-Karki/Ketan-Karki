@@ -20,7 +20,7 @@
 - 🧐 Ask me about Problem Solving and Front End Web Development.
 - 🤙 How to reach me: [LinkedIn - Ketan Karki](https://www.linkedin.com/in/ketan-karki-9a9b071b6/) 
 - 😄 Pronouns: He/His
-- 👉 Fun fact: In my spare time I enjoy listening to music, dancing, and doing some artwork.
+- 👉 Fun fact: In my spare time I enjoy watching football or listening to music.
 
 [![Linkedin: Ketan Karki](https://img.shields.io/badge/-KetanKarki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ketan-karki-9a9b071b6//)](https://www.linkedin.com/in/ketan-karki-9a9b071b6/)
 [![GitHub iampawan](https://img.shields.io/github/followers/KetanKarki?label=follow&style=social)](https://github.com/KetanKarki)
