@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/ketan-karki-9a9b071b6" target="_blank">
   <img align="left" alt="Ketan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/KetanKarki" target="_blank">
+<a href="https://github.com/Ketan-Karki" target="_blank">
   <img align="left" alt="Ketan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
@@ -24,7 +24,7 @@
 - 👉 Fun fact: In my spare time I enjoy watching football or listening to music.
 
 [![Linkedin: Ketan Karki](https://img.shields.io/badge/-KetanKarki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ketan-karki-9a9b071b6//)](https://www.linkedin.com/in/ketan-karki-9a9b071b6/)
-[![GitHub iampawan](https://img.shields.io/github/followers/KetanKarki?label=follow&style=social)](https://github.com/KetanKarki)
+[![GitHub iampawan](https://img.shields.io/github/followers/KetanKarki?label=follow&style=social)](https://github.com/Ketan-Karki)
 
 
 **Languages and Tools:**  
@@ -46,11 +46,11 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
  
 
-<a href="https://github.com/KetanKarki" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetanKarki&theme=cobalt&hide_langs_below=0" />
+<a href="https://github.com/Ketan-Karki" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan-Karki&theme=cobalt&hide_langs_below=0" />
 </a>
-<a href="https://github.com/KetanKarki" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=KetanKarki&show_icons=true&theme=cobalt&line_height=27" alt="Ketan's github stats"/>
+<a href="https://github.com/Ketan-Karki" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ketan-Karki&show_icons=true&theme=cobalt&line_height=27" alt="Ketan's github stats"/>
 </a>
 
 <div align="center">
