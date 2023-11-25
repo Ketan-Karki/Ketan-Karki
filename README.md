@@ -45,14 +45,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
  
-
-<a href="https://github.com/Ketan-Karki" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan-Karki&theme=cobalt&hide_langs_below=0" />
-</a>
-<a href="https://github.com/Ketan-Karki" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ketan-Karki&show_icons=true&theme=cobalt&line_height=27" alt="Ketan's github stats"/>
-</a>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
