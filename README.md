@@ -15,8 +15,6 @@
 
 - 🤓 I’m currently working on enhancing my skills.
 - 📙 I’m currently learning more about Web Development.
-- ✌️ Right now I’m looking to collaborate on Projects based mainly on Front End WebDev.
-- 🆘 I’m looking for help with anything you are good at.
 - 🧐 Ask me about Problem Solving and Front End Web Development.
 - 💻 Here's my Portfolio Website: [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
 - 🤙 How to reach me: [LinkedIn - Ketan Karki](https://www.linkedin.com/in/ketan-karki-9a9b071b6/) 
