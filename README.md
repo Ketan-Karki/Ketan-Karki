@@ -1,44 +1,38 @@
-![MasterHead](https://camo.githubusercontent.com/dcba36fec68f7f3cc9663d2c09d233204008e4323bbfdbb7124d6c5bb9e3889c/68747470733a2f2f7334313636302e7063646e2e636f2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f39302d61727469636c652d62616e6e65722d322e676966)
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"/>
+<h1 align="center">Hi 👋, I'm Ketan Karki</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
-### Ciao, I'm Ketan Karki!👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ketan-karki" alt="ketan-karki" /></a> </p>
 
-<a href="https://www.linkedin.com/in/ketan-karki-9a9b071b6" target="_blank">
-  <img align="left" alt="Ketan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Ketan-Karki" target="_blank">
-  <img align="left" alt="Ketan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+- 🔭 I’m currently working on **Frontend Development projects**
 
-<br/>
-<br/>
+- 🌱 I’m currently learning **Nuxt.js, Vue, React, Next.js**
 
-- 🤓 I’m currently working on enhancing my skills.
-- 📙 I’m currently learning more about Web Development.
-- 🧐 Ask me about Problem Solving and Front End Web Development.
-- 💻 Here's my Portfolio Website: [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
-- 🤙 How to reach me: [LinkedIn - Ketan Karki](https://www.linkedin.com/in/ketan-karki-9a9b071b6/) 
-- 😄 Pronouns: He/His
-- 👉 Fun fact: In my spare time I enjoy watching football or listening to music.
+- 👯 I’m looking to collaborate on **real world's problem solving projects**
 
-[![Linkedin: Ketan Karki](https://img.shields.io/badge/-KetanKarki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ketan-karki-9a9b071b6//)](https://www.linkedin.com/in/ketan-karki-9a9b071b6/)
-[![GitHub iampawan](https://img.shields.io/github/followers/Ketan-Karki?label=follow&style=social)](https://github.com/Ketan-Karki)
+- 👨‍💻 My Portfolio Website [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
 
+- 💬 Ask me about **Vue, React, DSA**
 
-**Languages and Tools:**  
+- 📫 How to reach me **ketankarki2626@gmail.com**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+- 📄 Know about my experiences [####](####)
+
+- ⚡ Fun fact **In my spare time I enjoy watching football or listening to music.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ketan-karki-9a9b071b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan-karki-9a9b071b6" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ketankarki2626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ketankarki2626" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/_ketan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_ketan_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ketankarki2626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ketankarki2626" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ketankarki2626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ketankarki2626" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ketan-karki&show_icons=true&locale=en&layout=compact" alt="ketan-karki" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ketan-karki&show_icons=true&locale=en" alt="ketan-karki" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketan-karki&" alt="ketan-karki" /></p>
