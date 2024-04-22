@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ketankarki2626@gmail.com**
 
-- 📄 Know about me [My Resume](https://drive.google.com/file/d/1_-VuFj3aSPfs_229Mf9fn24S2f17DhLp/view?usp=sharing)
+- 📄 Know about me [My Resume](https://drive.google.com/file/d/1Hx-FOVPtXphavb5OZdsp89jOLwvP1pjX/view?usp=sharing)
 
 - ⚡ Fun fact **In my spare time I enjoy watching football or listening to music.**
 
