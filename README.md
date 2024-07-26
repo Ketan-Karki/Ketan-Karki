@@ -4,21 +4,21 @@
 <img align="right" alt="Coding" width="400" src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af">
 
 
-- 🔭 I’m currently working on **Frontend Development projects**
+- 🔭 I’m currently working as a **Software Developer**
 
-- 🌱 I’m currently learning **Nuxt.js, Vue, React, Next.js**
+- 🌱 I’m always eager to **learn** new things
 
-- 👯 I’m looking to collaborate on **real world's problem solving projects**
+- 👯 I’m eager to collaborate on **real-world problem-solving** projects that challenge and inspire.
 
 - 👨‍💻 My Portfolio Website [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
 
-- 💬 Ask me about **Vue, React, DSA**
+- 💬 I’m always up for a **tech talk**!
 
 - 📫 How to reach me **ketankarki2626@gmail.com**
 
 - 📄 Know about me [My Resume](https://drive.google.com/file/d/1UwCmH6A14VK26SMBryZs3FvaI4_CaBFw/view?usp=sharing)
 
-- ⚡ Fun fact **In my spare time I enjoy watching football or listening to music.**
+- ⚡ Fun fact: When I'm not coding, you’ll find me enjoying a great cup of **coffee** or watching **football** matches.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
