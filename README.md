@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ketankarki2626@gmail.com**
 
-- 📄 Know about me [My Resume](https://drive.google.com/file/d/1UwCmH6A14VK26SMBryZs3FvaI4_CaBFw/view?usp=sharing)
+- 📄 Know about me [My Resume](https://drive.google.com/file/d/1tI0SJn7mF91iQ4KQi0ysUvxJA_JMQnNF/view?usp=sharing)
 
 - ⚡ Fun fact: When I'm not coding, you’ll find me enjoying a great cup of **coffee** or watching **football** matches.
 
