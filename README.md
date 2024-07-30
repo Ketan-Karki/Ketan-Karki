@@ -10,15 +10,15 @@
 
 - 👯 I’m eager to collaborate on **real-world problem-solving** projects that challenge and inspire.
 
-- 👨‍💻 My Portfolio Website [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
+- 📄 Know about me [My Resume](https://drive.google.com/file/d/1J58zyGXc8SEnp__NhvgNed6wiccIVdJF/view?usp=sharing)
 
 - 💬 I’m always up for a **tech talk**!
 
 - 📫 How to reach me **ketankarki2626@gmail.com**
 
-- 📄 Know about me [My Resume](https://drive.google.com/file/d/1tI0SJn7mF91iQ4KQi0ysUvxJA_JMQnNF/view?usp=sharing)
-
 - ⚡ Fun fact: When I'm not coding, you’ll find me enjoying a great cup of **coffee** or watching **football** matches.
+
+- 👨‍💻 My Portfolio Website [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
