@@ -10,7 +10,7 @@
 
 - 👯 I’m eager to collaborate on **real-world problem-solving** projects that challenge and inspire.
 
-- 📄 Know about me [My Resume](https://drive.google.com/file/d/1J58zyGXc8SEnp__NhvgNed6wiccIVdJF/view?usp=sharing)
+- 📄 Know about me [My Resume](https://drive.google.com/file/d/1pxtbYSCKsC6HNTXTduyaQ9liYREpbDxQ/view?usp=sharing)
 
 - 💬 I’m always up for a **tech talk**!
 
