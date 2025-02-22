@@ -1,33 +1,32 @@
-[![](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://ketankarki.netlify.app/)
-<h1 align="center">Hello I'm Ketan Karki👋 a Coding enthusiast 🚀</h1>
-<h3 align="center">Turning ideas into elegant and user-friendly web experiences. 🌐✨</h3>
-<img align="right" alt="Coding" width="400" src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af">
+<h1 align="center">👋 Hey, I’m Ketan Karki</h1>
+<h3 align="center">coding like a playmaker, brewing coffee like a perfectionist. ⚽☕</h3>
+<img align="right" alt="My Octocat" width="400" src="https://github.com/user-attachments/assets/f1228684-7fcb-496f-8b04-860bd4556e95">
 
 
-- 🔭 I’m currently working as a **Software Developer**
+- 🔭 **Currently working as a Software Developer** 
 
-- 🌱 I’m always eager to **learn** new things
+- 🌱 **Constantly learning** — diving into new technologies and evolving as a developer every day.
 
-- 👯 I’m eager to collaborate on **real-world problem-solving** projects that challenge and inspire.
+- 🤝 **Eager to collaborate** on real-world projects that push the boundaries of innovation and problem-solving.
 
-- 📄 Know about me [My Resume](https://drive.google.com/file/d/1pxtbYSCKsC6HNTXTduyaQ9liYREpbDxQ/view?usp=sharing)
+- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/1pxtbYSCKsC6HNTXTduyaQ9liYREpbDxQ/view?usp=sharing)
 
-- 💬 I’m always up for a **tech talk**!
+- 💬 I’m always up for a **tech talk** or brainstorming session!
 
-- 📫 How to reach me **ketankarki2626@gmail.com**
+- 📫 **Reach me at:** **ketankarki2626@gmail.com**
 
-- ⚡ Fun fact: When I'm not coding, you’ll find me enjoying a great cup of **coffee** or watching **football** matches.
+- ⚡ **Fun Fact:** My ideal weekend? A football match on the screen, a fresh pour-over brewing, and a side project keeping me in the zone. 🚀
 
-- 👨‍💻 My Portfolio Website [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
+- 👨‍💻 Check out my Portfolio: [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ketan-karki-9a9b071b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan-karki-9a9b071b6" height="30" width="40" /></a>
-<a href="https://x.com/KetanKarki" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="KetanKarki" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ketankarki2626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ketankarki2626" height="30" width="40" /></a>
+<a href="https://x.com/KetanKarki" target="blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100"></a>
+<a href="https://linkedin.com/in/ketan-karki-9a9b071b6" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+<!-- <a href="https://www.leetcode.com/ketankarki2626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ketankarki2626" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ketankarki2626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ketankarki2626" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ketankarki2626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ketankarki2626" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_ketan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_ketan_" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/_ketan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_ketan_" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
