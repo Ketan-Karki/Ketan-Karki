@@ -19,6 +19,8 @@
 
 - 👨‍💻 Check out my Portfolio: [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
 
+- 📝 My Blog: I share my learnings, experiences, and insights on tech, coding, and beyond. [Read my blog](https://ketankarki-devopsinsights.hashnode.dev/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/KetanKarki" target="blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="40"></a>
