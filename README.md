@@ -17,9 +17,9 @@
 
 - ⚡ **Fun Fact:** My ideal weekend? A football match on the screen, a fresh pour-over brewing, and a side project keeping me in the zone. 🚀
 
-- 👨‍💻 Check out my Portfolio: [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
+- 📝 Check out my personal blog site: https://ketankarki.wiki/
 
-- 📝 My Blog: I share my learnings, experiences, and insights on tech, coding, and beyond. [Read my blog](https://ketankarki-devopsinsights.hashnode.dev/)
+- 👨‍💻 Check out my Portfolio: [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
