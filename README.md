@@ -9,7 +9,7 @@
 
 - 🤝 **Eager to collaborate** on real-world projects that push the boundaries of innovation and problem-solving.
 
-- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/1JMDrFsn9a2dnePRZamr1vAae5YWNFOi7/view?usp=sharing)
+- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/1YxV7drcgNgtLwG7fniau29drfFaBv94I/view?usp=sharing)
 
 - 💬 I’m always up for a **tech talk** or brainstorming session!
 
@@ -18,8 +18,6 @@
 - ⚡ **Fun Fact:** My ideal weekend? A football match on the screen, a fresh pour-over brewing, and a side project keeping me in the zone. 🚀
 
 - 📝 Check out my personal blog site: https://ketankarki.wiki/
-
-- 👨‍💻 Check out my Portfolio: [https://ketankarki.netlify.app/](https://ketankarki.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
