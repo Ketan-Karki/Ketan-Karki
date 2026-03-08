@@ -9,7 +9,7 @@
 
 - 🤝 **Eager to collaborate** on real-world projects that push the boundaries of innovation and problem-solving.
 
-- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/1dRpyt6TlQJAcj6EcHdrxF5Y9_vOzy4hP/view?usp=sharing)
+- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/1WRLqnTuEsmjhEw-SoKCIhR_cLv1MEfx5/view?usp=sharing)
 
 - 💬 I’m always up for a **tech talk** or brainstorming session!
 
