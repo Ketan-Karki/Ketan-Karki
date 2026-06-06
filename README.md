@@ -3,13 +3,13 @@
 <img align="right" alt="My Octocat" width="400" src="https://github.com/user-attachments/assets/f1228684-7fcb-496f-8b04-860bd4556e95">
 
 
-- 🔭 **Currently working as a Software Developer** 
+- 🔭 **Currently working as a Software Development Engineer-2** 
 
 - 🌱 **Constantly learning** — diving into new technologies and evolving as a developer every day.
 
 - 🤝 **Eager to collaborate** on real-world projects that push the boundaries of innovation and problem-solving.
 
-- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/13t7pRpbQpIN0W7J52U2ZdbrpzOjfdcER/view?usp=sharing)
+- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/1t661yGniAxWrl1AzstY1w9jM84lPbgDr/view?usp=sharing)
 
 - 💬 I’m always up for a **tech talk** or brainstorming session!
 
