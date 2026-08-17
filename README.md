@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey, I’m Ketan Karki</h1>
 <h3 align="center">coding like a playmaker, brewing coffee like a perfectionist. ⚽☕</h3>
-<img align="right" alt="My Octocat" width="400" src="https://github.com/user-attachments/assets/f1228684-7fcb-496f-8b04-860bd4556e95">
 
 
 - 🔭 **Currently working as a Software Development Engineer-2** 
