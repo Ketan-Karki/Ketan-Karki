@@ -1,22 +1,13 @@
-<h1 align="center">👋 Hey, I’m Ketan Karki</h1>
-<h3 align="center">coding like a playmaker, brewing coffee like a perfectionist. ⚽☕</h3>
+<h1 align="center">Hey, I'm Ketan Karki</h1>
+<h3 align="center">I write code, play football most days, and drink a lot of coffee.</h3>
 
+I write software for a living. Currently SDE-2.
 
-- 🔭 **Currently working as a Software Development Engineer-2** 
+I play football almost every day. I watch a lot of it too. So if it sounds like football is all I talk about, that's probably fair.
 
-- 🌱 **Constantly learning** — diving into new technologies and evolving as a developer every day.
+When I'm not on a pitch, I'm usually at a laptop. I dump what I learn on my blog: [ketankarki.wiki](https://ketankarki.wiki/)
 
-- 🤝 **Eager to collaborate** on real-world projects that push the boundaries of innovation and problem-solving.
-
-- 📄 Check out my resume: [My Resume](https://drive.google.com/file/d/1t661yGniAxWrl1AzstY1w9jM84lPbgDr/view?usp=sharing)
-
-- 💬 I’m always up for a **tech talk** or brainstorming session!
-
-- 📫 **Reach me at:** **ketankarki2626@gmail.com**
-
-- ⚡ **Fun Fact:** My ideal weekend? A football match on the screen, a fresh pour-over brewing, and a side project keeping me in the zone. 🚀
-
-- 📝 Check out my personal blog site: https://ketankarki.wiki/
+Resume is [here](https://drive.google.com/file/d/1t661yGniAxWrl1AzstY1w9jM84lPbgDr/view?usp=sharing). Email me at ketankarki2626@gmail.com if you want to talk.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
