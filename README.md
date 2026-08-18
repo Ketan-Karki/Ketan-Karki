@@ -7,7 +7,7 @@ I play football almost every day. I watch a lot of it too. So if it sounds like 
 
 When I'm not on a pitch, I'm usually at a laptop. I dump what I learn on my blog: [ketankarki.wiki](https://ketankarki.wiki/)
 
-Resume is [here](https://drive.google.com/file/d/1vfEYoNAaSdK5DHfrCuyhdVjoGm3T2bxq/view?usp=sharing). Email me at ketankarki.work@gmail.com if you want to talk.
+Resume is [here](https://drive.google.com/file/d/1ZtzgqjTSxvgMu0xtX8SDnwt8ry7w_emc/view?usp=sharing). Email me at ketankarki.work@gmail.com if you want to talk.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
